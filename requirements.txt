@@ -1,0 +1,6 @@
+streamlit
+Pillow
+pyttsx3
+pytesseract
+langchain-google-genai
+google-generativeai
